@@ -8,7 +8,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://shab-ss.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://shab-ss.github.io" target="_blank"><img src="examples/Screenshot 2025-04-29 182434.png">
   </a>
   </kbd>
 </p>
